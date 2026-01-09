@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
+const WHATSAPP_LINK = "https://wa.me/5551996433090?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
 
 const HeroSection = () => {
   return (
@@ -56,7 +56,7 @@ const HeroSection = () => {
             >
               <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="mr-2 h-5 w-5" />
-                Agende uma Consulta
+                Saiba Mais
               </a>
             </Button>
           </div>
@@ -65,15 +65,15 @@ const HeroSection = () => {
           <div className="flex flex-wrap justify-center gap-6 pt-8 text-sm text-muted-foreground">
             <div className="flex items-center gap-2">
               <div className="w-1.5 h-1.5 rounded-full bg-accent" />
-              <span>+500 famílias atendidas</span>
+              <span>Atendimento Individualizado</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-1.5 h-1.5 rounded-full bg-accent" />
-              <span>10+ anos de experiência</span>
+              <span>Orientação Parental</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-1.5 h-1.5 rounded-full bg-accent" />
-              <span>Atendimento presencial e online</span>
+              <span>Feedback Períodico</span>
             </div>
           </div>
         </div>

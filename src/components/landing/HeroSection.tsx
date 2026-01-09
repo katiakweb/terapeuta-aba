@@ -73,7 +73,7 @@ const HeroSection = () => {
             </div>
             <div className="flex items-center gap-2">
               <div className="w-1.5 h-1.5 rounded-full bg-accent" />
-              <span>Feedback Períodico</span>
+              <span>Feedbacks Periódicos</span>
             </div>
           </div>
         </div>

@@ -33,7 +33,7 @@ const AboutSection = () => {
             </h2>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-             Sou Pedagoga especializada em Neuropsicopedagogia Clínica e Análise do Comportamento Aplicada (ABA), com atuação no atendimento terapêutico de crianças neurodivergentes, incluindo autismo (TEA), TDAH e outros transtornos do neurodesenvolvimento. 
+             Sou Pedagoga especializada em Neuropsicopedagogia Clínica e Análise do Comportamento Aplicada (ABA). Atuo no atendimento terapêutico de crianças neurodivergentes, incluindo autismo (TEA), TDAH e outros transtornos do neurodesenvolvimento. 
               Meu trabalho é focado em avaliação, intervenção e desenvolvimento infantil, criando um ambiente acolhedor e individualizado para promover autonomia, aprendizagem e qualidade de vida.
             </p>
 

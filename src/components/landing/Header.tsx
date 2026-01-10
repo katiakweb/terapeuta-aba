@@ -11,7 +11,7 @@ const Header = () => {
           {/* Logo */}
           <a href="/" className="flex items-center gap-2">
             <div className="w-8 h-8 rounded-lg gradient-primary flex items-center justify-center">
-              <span className="text-white font-bold text-sm">T</span>
+              <span className="text-white font-bold text-sm">🧩</span>
             </div>
             <span className="font-semibold text-foreground hidden sm:inline">
               Terapeuta ABA

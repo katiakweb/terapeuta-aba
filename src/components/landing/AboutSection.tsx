@@ -12,7 +12,7 @@ const AboutSection = () => {
               <img
                 src="/kelk.png"
                 alt="Kelen Korndörfer"
-                className="w-full h-full object-cover"
+                className="w-full h-auto"
               />
             </div>
 

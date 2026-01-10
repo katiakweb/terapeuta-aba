@@ -1,6 +1,6 @@
 import { MessageCircle } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
+const WHATSAPP_LINK = "https://wa.me/5551996433090?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
 
 const FloatingWhatsApp = () => {
   return (
@@ -12,7 +12,7 @@ const FloatingWhatsApp = () => {
       aria-label="Contato via WhatsApp"
     >
       <MessageCircle className="w-6 h-6 animate-pulse-gentle" />
-      <span className="font-medium hidden sm:inline">Fale Comigo</span>
+      <span className="font-medium hidden sm:inline"></span>
     </a>
   );
 };

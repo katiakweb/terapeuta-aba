@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
+const WHATSAPP_LINK = "https://wa.me/5551996433090?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
 
 const Header = () => {
   return (
@@ -14,7 +14,7 @@ const Header = () => {
               <span className="text-white font-bold text-sm">🧩</span>
             </div>
             <span className="font-semibold text-foreground hidden sm:inline">
-              Terapeuta ABA
+              EduNeuroLab
             </span>
           </a>
 

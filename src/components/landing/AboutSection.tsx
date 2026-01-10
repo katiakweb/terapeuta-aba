@@ -1,5 +1,4 @@
 import { Heart, Award, Users } from "lucide-react";
-import terapeutaImg from "@/public/kelk.png";
 
 const AboutSection = () => {
   return (

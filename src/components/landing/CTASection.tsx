@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle, Phone, Mail } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
+const WHATSAPP_LINK = "https://wa.me/5551996433090?text=Olá! Gostaria de saber mais sobre a terapia ABA.";
 
 const CTASection = () => {
   return (
@@ -56,14 +56,14 @@ const CTASection = () => {
               className="flex items-center gap-2 hover:opacity-100 transition-opacity"
             >
               <Phone className="w-4 h-4" />
-              <span>(11) 99999-9999</span>
+              <span>(51) 99643-3090</span>
             </a>
             <a
               href="mailto:contato@terapeutaaba.com.br"
               className="flex items-center gap-2 hover:opacity-100 transition-opacity"
             >
               <Mail className="w-4 h-4" />
-              <span>contato@terapeutaaba.com.br</span>
+              <span>kelen.eduneurolab@gmail.com</span>
             </a>
           </div>
         </div>

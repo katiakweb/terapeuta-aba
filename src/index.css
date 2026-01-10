@@ -126,4 +126,13 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
+
+  /* ✅ Adicione aqui sua nova classe */
+  .gradient-favicon {
+    background: linear-gradient(135deg, 
+      #A8E6CF 0%,
+      #57C7AD 56%,
+      #4A8FE7 100%
+    );
+  }
 }

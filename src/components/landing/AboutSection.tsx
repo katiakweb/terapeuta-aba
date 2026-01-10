@@ -62,17 +62,17 @@ const AboutSection = () => {
                   Cuidado individual
                 </div>
                 <div className="text-xs text-muted-foreground">
-                  Cada criança é única
+                  Cada criança é única e merece cuidado, respeito e atenção às suas necessidades.
                 </div>
               </div>
 
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Heart className="w-6 h-6 text-primary mx-auto mb-2" />
                 <div className="text-sm font-bold text-foreground">
-                  Trabalho em parceria
+                  Trabalho em parceria 
                 </div>
                 <div className="text-xs text-muted-foreground">
-                  Família e terapeuta
+                  Família e terapeuta trabalhando juntos pelo bem estar da criança
                 </div>
               </div>
             </div>

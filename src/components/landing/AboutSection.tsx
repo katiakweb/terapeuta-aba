@@ -49,30 +49,30 @@ const AboutSection = () => {
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Award className="w-6 h-6 text-primary mx-auto mb-2" />
                 <div className="text-sm font-bold text-foreground">
-                  Base científica ABA
+                  Base científica 
                 </div>
                 <div className="text-xs text-muted-foreground">
-                  Análise do Comportamento Aplicada ao Autismo
+                  ABA - Análise do Comportamento Aplicada ao Autismo
                 </div>
               </div>
 
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Users className="w-6 h-6 text-accent mx-auto mb-2" />
                 <div className="text-sm font-bold text-foreground">
-                  Cuidado individual
+                  Trabalho em parceria
                 </div>
                 <div className="text-xs text-muted-foreground">
-                  Cada criança é única e merece cuidado, respeito e atenção às suas necessidades.
+                  Família e terapeuta trabalhando juntos pelo bem estar da criança
                 </div>
               </div>
 
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Heart className="w-6 h-6 text-primary mx-auto mb-2" />
                 <div className="text-sm font-bold text-foreground">
-                  Trabalho em parceria 
+                  Cuidado individual 
                 </div>
                 <div className="text-xs text-muted-foreground">
-                  Família e terapeuta trabalhando juntos pelo bem estar da criança
+                  Cada criança é única e merece cuidado, respeito e atenção às suas necessidades.
                 </div>
               </div>
             </div>

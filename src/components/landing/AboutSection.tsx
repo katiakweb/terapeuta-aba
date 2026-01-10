@@ -14,10 +14,12 @@ const AboutSection = () => {
                 <div className="text-center p-8">
                   <div className="w-32 h-32 mx-auto rounded-full bg-primary/10 flex items-center justify-center mb-4">
                     <Heart className="w-12 h-12 text-primary" />
-                  </div>
-                  <p className="text-sm text-muted-foreground">
-                    Foto da terapeuta
-                  </p>
+                 <div className="aspect-[4/5] rounded-2xl overflow-hidden border border-border">
+                    <img
+                       src="/kelk.png"
+                       alt="Kelen Korndörfer"
+                       className="w-full h-full object-cover"
+                    />
                 </div>
               </div>
             </div>

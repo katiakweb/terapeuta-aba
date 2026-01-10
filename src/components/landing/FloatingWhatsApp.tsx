@@ -12,7 +12,7 @@ const FloatingWhatsApp = () => {
       aria-label="Contato via WhatsApp"
     >
       <MessageCircle className="w-6 h-6 animate-pulse-gentle" />
-      <span className="font-medium hidden sm:inline"></span>
+      <span className="font-medium hidden sm:inline">Fale Comigo</span>
     </a>
   );
 };

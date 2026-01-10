@@ -51,10 +51,10 @@ const AboutSection = () => {
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Award className="w-6 h-6 text-primary mx-auto mb-2" />
                 <div className="text-sm font-bold text-foreground">
-                  Base científica
+                  Base científica ABA
                 </div>
                 <div className="text-xs text-muted-foreground">
-                  Análise do Comportamento
+                  Análise do Comportamento Aplicada ao Autismo
                 </div>
               </div>
 

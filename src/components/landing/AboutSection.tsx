@@ -1,5 +1,5 @@
 import { Heart, Award, Users } from "lucide-react";
-import terapeutaImg from "@/assets/kelk.png";
+import terapeutaImg from "@/public/kelk.png";
 
 const AboutSection = () => {
   return (
@@ -34,7 +34,7 @@ const AboutSection = () => {
             </div>
             
             <h2 className="text-3xl md:text-4xl font-bold tracking-tight">
-              Olá, sou a <span className="gradient-text">[Nome da Terapeuta]</span>
+              Olá, me chamo <span className="gradient-text">Kelen Korndörfer</span>
             </h2>
             
             <p className="text-lg text-muted-foreground leading-relaxed">
@@ -55,18 +55,18 @@ const AboutSection = () => {
             <div className="grid grid-cols-3 gap-4 pt-6">
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Award className="w-6 h-6 text-primary mx-auto mb-2" />
-                <div className="text-2xl font-bold text-foreground">10+</div>
-                <div className="text-xs text-muted-foreground">Anos de experiência</div>
+                <div className="text-2xl font-bold text-foreground">Base científica</div>
+                <div className="text-xs text-muted-foreground">Análise do Comportamento</div>
               </div>
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Users className="w-6 h-6 text-accent mx-auto mb-2" />
-                <div className="text-2xl font-bold text-foreground">500+</div>
-                <div className="text-xs text-muted-foreground">Famílias atendidas</div>
+                <div className="text-2xl font-bold text-foreground">Cuidado individual</div>
+                <div className="text-xs text-muted-foreground">Cada criança é única</div>
               </div>
               <div className="text-center p-4 rounded-xl bg-card border border-border">
                 <Heart className="w-6 h-6 text-primary mx-auto mb-2" />
-                <div className="text-2xl font-bold text-foreground">100%</div>
-                <div className="text-xs text-muted-foreground">Dedicação</div>
+                <div className="text-2xl font-bold text-foreground">Trabalho em parceria</div>
+                <div className="text-xs text-muted-foreground">Família e terapeuta</div>
               </div>
             </div>
           </div>

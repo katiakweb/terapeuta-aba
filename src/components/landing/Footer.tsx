@@ -8,10 +8,10 @@ const Footer = () => {
           {/* Logo and copyright */}
           <div className="flex items-center gap-2">
             <div className="w-6 h-6 rounded-md gradient-primary flex items-center justify-center">
-              <span className="text-white font-bold text-xs">T</span>
+              <span className="text-white font-bold text-xs">🧩</span>
             </div>
             <span className="text-sm text-muted-foreground">
-              © {currentYear} Terapeuta ABA. Todos os direitos reservados.
+              © {currentYear} EduNeuroLab. Todos os direitos reservados.
             </span>
           </div>
 

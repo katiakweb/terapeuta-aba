@@ -33,10 +33,8 @@ const AboutSection = () => {
             </h2>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Sou terapeuta ABA especializada em crianças neurodivergentes,
-              incluindo autismo, TDAH e outras condições do neurodesenvolvimento.
-              Minha missão é criar um ambiente acolhedor onde cada criança possa
-              desenvolver suas habilidades de forma respeitosa e individualizada.
+             Sou Pedagoga especializada em Neuropsicopedagogia Clínica e Análise do Comportamento Aplicada (ABA), com atuação no atendimento terapêutico de crianças neurodivergentes, incluindo autismo (TEA), TDAH e outros transtornos do neurodesenvolvimento. 
+              Meu trabalho é focado em avaliação, intervenção e desenvolvimento infantil, criando um ambiente acolhedor e individualizado para promover autonomia, aprendizagem e qualidade de vida.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
